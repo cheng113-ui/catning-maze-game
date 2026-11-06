@@ -1,0 +1,8 @@
+build/*
+!build/MazeGame.jar
+*.class
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
